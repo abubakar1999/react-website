@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.ae9e70f5.css",
+    "main.js": "/react-website/static/js/main.2a98a619.js",
+    "static/media/about.jpg": "/react-website/static/media/about.6c63338812297a7d1268.jpg",
+    "static/media/header.jpg": "/react-website/static/media/header.2315687c58b2c8df7146.jpg",
+    "static/media/messanger.png": "/react-website/static/media/messanger.c560961356543bbe4994.png",
+    "static/media/Resume Abubakar.pdf": "/react-website/static/media/Resume Abubakar.f6f585949d8d367184e8.pdf",
+    "static/media/logo.jpg": "/react-website/static/media/logo.03474e31420cdb6bcbfc.jpg",
+    "static/media/whatsapp.png": "/react-website/static/media/whatsapp.df7ba82dfa8317f14421.png",
+    "index.html": "/react-website/index.html",
+    "main.ae9e70f5.css.map": "/react-website/static/css/main.ae9e70f5.css.map",
+    "main.2a98a619.js.map": "/react-website/static/js/main.2a98a619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9e70f5.css",
+    "static/js/main.2a98a619.js"
+  ]
+}
